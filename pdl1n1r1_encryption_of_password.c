@@ -1,4 +1,4 @@
-#include<stdio.h>//ggg
+#include<stdio.h>
 void main()
 {
     //pin encryption and decryption
